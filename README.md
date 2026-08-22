@@ -25,4 +25,4 @@ A non-exhaustive list of technologies I like and use regularly.
 </p>
 
 ### Get in touch
-I'd love to work with you on a project you have in mind, or just have a chat! [Message me](https://skoula.com/contact) if you're interested :)
+I'd love to work with you on a project you have in mind, or just have a chat! [Message me](https://michalskoula.com#contact) if you're interested :)
