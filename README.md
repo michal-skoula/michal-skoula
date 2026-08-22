@@ -4,7 +4,7 @@ Full-stack Web Developer building bespoke websites and web applications for clie
 [Personal Website](https://skoula.com) • [LinkedIn](https://linkedin.com/in/michal-skoula) • [YouTube](https://www.youtube.com/@michal_skoula) 
 
 ### About me
-- 19 y/o
+- 20 y/o
 - Studying CompSci at the University of West Bohemia
 - Freelancer since 2023
 - Fluent in English and Czech, limited proficiency in German
