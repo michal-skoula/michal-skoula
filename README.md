@@ -1,11 +1,12 @@
 # Michal Škoula
-Full-stack Web Developer building bespoke websites and web applications for clients.
+DevOps engineer by day, Full-stack webdev by night. Also a student.
 
 [Personal Website](https://skoula.com) • [LinkedIn](https://linkedin.com/in/michal-skoula) • [YouTube](https://www.youtube.com/@michal_skoula) 
 
 ### About me
-- 20 y/o
-- Studying CompSci at the University of West Bohemia
+- 20 years old
+- Studying Software Engineering at UWB
+- Working as a Junior Devops Engineer at TSP Data since Jan 1st 2027
 - Freelancer since 2023
 - Fluent in English and Czech, limited proficiency in German
 
@@ -24,5 +25,5 @@ A non-exhaustive list of technologies I like and use regularly.
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
 </p>
 
-### Get in touch
-I'd love to work with you on a project you have in mind, or just have a chat! [Message me](https://michalskoula.com#contact) if you're interested :)
+### Let's connect
+I'd love to chat about anything and everything dev :) email me `michal@skoula.com` if you're interested.
