@@ -1,5 +1,5 @@
 # Michal Škoula
-DevOps engineer by day, Full-stack webdev by night. Also a student.
+DevOps Engineer by day, Web Developer by night. Also a student.
 
 [Personal Website](https://skoula.com) • [LinkedIn](https://linkedin.com/in/michal-skoula) • [YouTube](https://www.youtube.com/@michal_skoula) 
 
