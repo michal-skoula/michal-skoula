@@ -3,14 +3,14 @@ DevOps Engineer by day, Web Developer by night. Also a student.
 
 [Personal Website](https://skoula.com) • [LinkedIn](https://linkedin.com/in/michal-skoula) • [YouTube](https://www.youtube.com/@michal_skoula) 
 
-### About me
+## About me
 - 20 years old
-- Studying Software Engineering at UWB
-- Working as a Junior Devops Engineer at TSP Data since Jan 1st 2027
+- Studying Software Engineering at UWB (ZČU)
+- Working as a Junior Devops Engineer at TSP Data from Jan 1st 2027
 - Freelancer since 2023
 - Fluent in English and Czech, limited proficiency in German
 
-### My Stack
+## My Stack
 A non-exhaustive list of technologies I like and use regularly.
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -25,5 +25,15 @@ A non-exhaustive list of technologies I like and use regularly.
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
 </p>
 
-### Let's connect
+## Highlighted projects
+- [Czechified](https://czechified.com) - Fully custom e-shop and language course platform built with Laravel and Stripe.
+- Görges & Partners Legal Analysis Tool *(Not publicly available)* - Analysis of legal prose using AI, over 500k documents stored, analyzed and queryable within 2 seconds, data scraping from multiple web sources using Puppeteer.
+- [Americké Centrum Plzeň](https://acplzen.zcu.cz) - Complete visual and functional update of ZČU's Americké Centrum.
+- [IS-STAG MCP](https://github.com/michal-skoula/stag-mcp) - MCP Server for ZČU's student agenda system wrapping the public API, currently in development.
+- [bazenslovany.cz](https://bazenslovany.cz) - My first commercial project, full website redesign for the largest public pool in Plzeňský kraj.
+- [Pro Plzeň](https://proplzen.cz) - Redesign and optimizations ahead of the 2026 municipal elections.
+
+ 
+
+## Let's connect
 I'd love to chat about anything and everything dev :) email me `michal@skoula.com` if you're interested.
