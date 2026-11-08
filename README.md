@@ -27,7 +27,7 @@ A non-exhaustive list of technologies I like and use regularly.
 
 ## Highlighted projects
 - [Czechified](https://czechified.com) - Fully custom e-shop and language course platform built with Laravel and Stripe.
-- Görges & Partners Legal Analysis Tool *(Not publicly available)* - Analysis of legal prose using AI, over 500k documents stored, analyzed and queryable within 2 seconds, data scraping from multiple web sources using Puppeteer.
+- [Görges & Partners Legal Analysis Tool](https://gorgespartners.cz) *(Not publicly available)* - Analysis of legal prose using AI, over 500k documents stored, analyzed and queryable within 2 seconds, data scraping from multiple web sources using Puppeteer.
 - [Americké Centrum Plzeň](https://acplzen.zcu.cz) - Complete visual and functional update of ZČU's Americké Centrum.
 - [IS-STAG MCP](https://github.com/michal-skoula/stag-mcp) - MCP Server for ZČU's student agenda system wrapping the public API, currently in development.
 - [Pro Plzeň](https://proplzen.cz) - Redesign and optimizations ahead of the 2026 municipal elections.
